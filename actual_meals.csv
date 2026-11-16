@@ -1,0 +1,36 @@
+date,food,quantity,unit,estimated_calories_kcal,estimated_protein_g,source,pdf_page,notes
+2026-10-14,Lean ground beef,200,g,,,Dialed In PDF,50,User reported; cooking state not specified
+2026-10-14,Air-fried potato,250,g,,,Dialed In PDF,50,User reported
+2026-10-14,Mayonnaise and mustard,,,,,Dialed In PDF,50,Small amounts; not measured
+2026-10-15,Ziggy chicken breast slices,6,slices,,,Dialed In PDF,51,"Breakfast, user reported"
+2026-10-15,Milk in chai,180,ml,,,Dialed In PDF,51,"Breakfast, user reported"
+2026-10-15,Sugar in chai,2,tsp,,,Dialed In PDF,51,"Breakfast, user reported"
+2026-10-15,Banana,1,piece,,,Dialed In PDF,51,"Breakfast, user reported"
+2026-10-15,Homemade upma,200,g,,,Dialed In PDF,51,"Breakfast, user reported"
+2026-10-15,Whole eggs,2,eggs,,,Dialed In PDF,51,"Breakfast, user reported"
+2026-10-15,Egg whites,108,g,,,Dialed In PDF,51,"Breakfast, user reported"
+2026-10-15,Olive oil,1-2,tsp,,,Dialed In PDF,51,"Breakfast, user reported"
+2026-10-20,Cooked rice,150,g,,,Dialed In PDF,74,User reported; date context from nearby message
+2026-10-20,Basa fillets,250-270,g,,,Dialed In PDF,74,User reported; date context from nearby message
+2026-10-20,Homemade dal,75,g,,,Dialed In PDF,74,User reported; date context from nearby message
+2026-10-20,Lemon achaar,,,,,Dialed In PDF,74,User reported; date context from nearby message
+2026-10-20,Whey protein,1,scoop,,,Dialed In PDF,74,Snack/shake; duplicated text in PDF entered once
+2026-10-20,Dairyland 1% milk,225,ml,,,Dialed In PDF,74,Snack/shake; duplicated text in PDF entered once
+2026-10-20,Oikos vanilla Greek yogurt,70,g,,,Dialed In PDF,74,Snack/shake; duplicated text in PDF entered once
+2026-10-20,Kraft smooth peanut butter,10,g,,,Dialed In PDF,74,Snack/shake; duplicated text in PDF entered once
+2026-10-20,Rice Krispie bar,1,bar,90,,Dialed In PDF,74,Snack/shake; duplicated text in PDF entered once
+2026-10-20,Banana,1,piece,,,Dialed In PDF,74,Snack/shake; duplicated text in PDF entered once
+2026-11-15,Lean ground beef,225,g cooked,647,56,Dialed In PDF,225-227,AI estimates in chat; beef conversion assumption; not lab measurements
+2026-11-15,Roti,3,pieces,390,12,Dialed In PDF,225-227,AI estimates in chat; beef conversion assumption; not lab measurements
+2026-11-15,Quaker Chewy bars,2,bars,180,3,Dialed In PDF,225-227,AI estimates in chat; beef conversion assumption; not lab measurements
+2026-11-15,1% milk,185,ml,78,6,Dialed In PDF,225-227,AI estimates in chat; beef conversion assumption; not lab measurements
+2026-11-15,French vanilla creamer,30,ml,60,0,Dialed In PDF,225-227,AI estimates in chat; beef conversion assumption; not lab measurements
+2026-11-15,Bell peppers,60,g,18,1,Dialed In PDF,225-227,AI estimates in chat; beef conversion assumption; not lab measurements
+2026-11-15,Pickles,9,slices,9,0,Dialed In PDF,225-227,AI estimates in chat; beef conversion assumption; not lab measurements
+2026-11-15,Black beans,5-6,beans,3,0,Dialed In PDF,225-227,AI estimates in chat; beef conversion assumption; not lab measurements
+2026-11-15,Greek yogurt,130,g,113,14.7,Dialed In PDF,225-227,AI estimates in chat; beef conversion assumption; not lab measurements
+2026-11-15,Honey,15,g,46,0,Dialed In PDF,225-227,AI estimates in chat; beef conversion assumption; not lab measurements
+2026-11-15,1% milk in shake,270,ml,113,9.2,Dialed In PDF,225-227,AI estimates in chat; beef conversion assumption; not lab measurements
+2026-11-15,Whey in shake,1,scoop,120,27,Dialed In PDF,225-227,AI estimates in chat; beef conversion assumption; not lab measurements
+2026-11-15,Peanut butter in shake,15,g,90,3.5,Dialed In PDF,225-227,AI estimates in chat; beef conversion assumption; not lab measurements
+2026-11-15,Greek yogurt in shake,45,g,39,5.1,Dialed In PDF,225-227,AI estimates in chat; beef conversion assumption; not lab measurements
